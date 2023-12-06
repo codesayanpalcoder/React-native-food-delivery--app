@@ -18,10 +18,10 @@ This is a clone of the popular food delivery app, Swiggy, built with React Nativ
 To get started with this app, you will need to have Expo and React Native installed on your development machine.
 
   1.Clone this repository
-    ``` git clone https://github.com/codesayanpalcoder/React-native-food-delivery--app ```
+    ``` git clone https://github.com/codesayanpalcoder/React-native-food-delivery-app ```
 
   2. Navigate to the project directory
-     ``` cd swiggy-app-clone ```
+     ``` cd clone ```
   
   3. Install the dependencies
     ``` npm install ```
